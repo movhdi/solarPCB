@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MainBoard_Motor1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MainBoard_Motor1.SchDoc|FileName=MainBoard_Motor2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MainBoard_Motor1.SchDoc|FileName=MainBoard_Motor3.SchDoc|SheetNumber= 
